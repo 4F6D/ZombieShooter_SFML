@@ -15,6 +15,7 @@ find_package(SFML 2.5 COMPONENTS graphics window system REQUIRED)
 
 add_executable(ZombieShooter
   src/main.cpp
+  src/Player.cpp
 )
 
 target_include_directories(ZombieShooter PRIVATE header)
