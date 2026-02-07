@@ -55,7 +55,7 @@ public:
     
     void upgradeSpeed();                    // Give the player a speedbost
     void upgradeHealth();                   // Give the player some health
-    void increaseHealthLevel(int amount);   // Increase the max health
-    void getHealth();                       // How much health does the player currently have?
+    void increaseHealthLevel(int amount);   // Heal up
+    int getHealth();                       // How much health does the player currently have?
 
 };
