@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FLAC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FLAC-Debug-d524c68516af3b2a7fb5.json",
+					"name" : "FLAC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Freetype::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Freetype-Debug-1f660d6be4c7f44f6a9f.json",
+					"name" : "Freetype",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL-Debug-d3efffbab521e4fb256c.json",
+					"name" : "OpenGL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VORBIS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VORBIS-Debug-a99f3410ba0ae524650d.json",
+					"name" : "VORBIS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfml-audio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfml-audio-Debug-2b4c1ba5fda4d5264efb.json",
+					"name" : "sfml-audio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfml-graphics::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfml-graphics-Debug-d1198cd2db4eaa58a566.json",
+					"name" : "sfml-graphics",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfml-network::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfml-network-Debug-5ff5b53650f71d996f37.json",
+					"name" : "sfml-network",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfml-system::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfml-system-Debug-5b5a6cb70b4e588743e5.json",
+					"name" : "sfml-system",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sfml-window::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sfml-window-Debug-2a30c4b7f8661efdc3c6.json",
+					"name" : "sfml-window",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ZombieShooter",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ZombieShooter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZombieShooter-Debug-43169b4d79c287437028.json",
+					"name" : "ZombieShooter",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/rene/Desktop/Projekte/ZombieShooter_SFML/build",
+		"source" : "/Users/rene/Desktop/Projekte/ZombieShooter_SFML"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

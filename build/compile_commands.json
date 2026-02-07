@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/rene/Desktop/Projekte/ZombieShooter_SFML/build",
+  "command": "/usr/bin/clang++ -I/Users/rene/Desktop/Projekte/ZombieShooter_SFML/header -isystem /opt/homebrew/opt/sfml@2/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/ZombieShooter.dir/src/main.cpp.o -c /Users/rene/Desktop/Projekte/ZombieShooter_SFML/src/main.cpp",
+  "file": "/Users/rene/Desktop/Projekte/ZombieShooter_SFML/src/main.cpp",
+  "output": "/Users/rene/Desktop/Projekte/ZombieShooter_SFML/build/CMakeFiles/ZombieShooter.dir/src/main.cpp.o"
+}
+]
