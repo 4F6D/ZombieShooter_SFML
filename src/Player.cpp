@@ -1,11 +1,11 @@
 #include "../header/Player.h"
 
 Player::Player()
-    :   m_Speed{START_SPEED},
-        m_Health{START_HEALTH},
-        m_MaxHealth{START_HEALTH},
-        m_Texture{},
-        m_Sprite{}
+    :   m_Speed(START_SPEED),
+        m_Health(START_HEALTH),
+        m_MaxHealth(START_HEALTH),
+        m_Texture(),
+        m_Sprite()
 {
     m_Texture.loadFromFile("../img/player.png");
     m_Sprite.setTexture(m_Texture);
