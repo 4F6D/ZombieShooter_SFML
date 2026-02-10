@@ -4,8 +4,8 @@
 using namespace sf;
 
 int main() {
-    const uint SCREEN_WDITH{1920/2};
-    const uint SCREEN_HEIGHT{1080/2};
+    const uint SCREEN_WDITH{1920};
+    const uint SCREEN_HEIGHT{1080};
 
     sf::RenderWindow window(sf::VideoMode(SCREEN_WDITH, SCREEN_HEIGHT), "ZombieShooter");
 
@@ -29,7 +29,7 @@ int main() {
 
         // **** DRAW ****
         window.clear();
-
+        
         window.display();
     }
 }

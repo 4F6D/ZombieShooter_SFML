@@ -1,4 +1,6 @@
 # ninja log v7
-6	348	1770432415701444846	CMakeFiles/ZombieShooter.dir/src/main.cpp.o	32ef02a45947e2d6
-379	490	1770441782994807151	ZombieShooter	6834a7d183309850
-5	379	1770441782620736556	CMakeFiles/ZombieShooter.dir/src/Player.cpp.o	7f26f305ace6c229
+16	776	1770517756391063643	CMakeFiles/ZombieShooter.dir/src/main.cpp.o	32ef02a45947e2d6
+777	966	1770517757152430748	ZombieShooter	6834a7d183309850
+16	777	1770517756391912141	CMakeFiles/ZombieShooter.dir/src/Player.cpp.o	7f26f305ace6c229
+4	651	1770605044015123221	CMakeFiles/ZombieShooter.dir/src/Player.cpp.o	7f26f305ace6c229
+652	829	1770605044662325109	ZombieShooter	6834a7d183309850
